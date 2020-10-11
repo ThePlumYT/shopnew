@@ -12,3 +12,18 @@
     
 
     </script>
+
+
+
+    <div class="container">
+			<div class="select-style">
+				<select class="select" name="radio">
+					<option value="44" selected="selected">46B - 156 Diamond</option>
+					<option value="80">83B - 281 Diamond</option>
+					<option value="134">137B - 470 Diamond</option>
+					<option value="264">280B - 956 Diamond</option>
+					
+				</select>
+				<span class="select-icon entypo-arrow-combo"></span>
+			</div>
+		</div>
